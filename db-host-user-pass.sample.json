@@ -1,0 +1,7 @@
+{
+	"host" : "MyHostNameOrIPAddressHere",
+	"user" : "DatabaseUserNameHere",
+	"password" : "DatabasePasswordHere",
+	"bushost" : "HostOrIPForBusServer",
+	"busport" : "PortNumberForBusServer(0..65535)"
+}
